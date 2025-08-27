@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I'm currently pursuing my Bachelor's degree in **C
 Here, you'll find a collection of my projects, contributions, and the technologies I love working with. I’m excited to share my journey and connect with like-minded individuals.
 
 ## 🛠 Skills and Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asearer&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asearer&repo=my-main-repo&layout=compact&theme=radical)
+
 
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks:** React, Django, Flask, Node.js
