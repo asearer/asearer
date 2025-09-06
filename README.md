@@ -7,10 +7,7 @@ Here, you'll find a collection of my projects, contributions, and the technologi
 ## 🛠 Skills and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asearer&repo=my-main-repo&layout=compact&theme=radical)
 
-
-
-
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, JavaScript, Java, Go, HTML, CSS
 - **Frameworks:** React, Django, Flask, Node.js
 - **Frontend Libraries:** Bootstrap, jQuery
 - **Tools:** Git, VS Code, Jupyter Notebook, Postman
