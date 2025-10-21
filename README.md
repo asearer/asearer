@@ -1,40 +1,71 @@
-# Hi there! 👋 I'm Alonza (asearer)
+# 👋 Hi, I’m Alonza Searer
 
-Welcome to my GitHub profile! I'm currently pursuing my Bachelor's degree in **Computer Science** with a concentration in **Software Engineering** at **Southern New Hampshire University (SNHU)**. Alongside my studies, I'm a freelance developer with a deep passion for science, technology, and problem-solving.
+I’m a **Software Developer** and **Computer Science student** at **Southern New Hampshire University (SNHU)**, specializing in **Software Engineering**. I build practical, data-driven applications that turn complex problems into intuitive, real-world solutions.
 
-Here, you'll find a collection of my projects, contributions, and the technologies I love working with. I’m excited to share my journey and connect with like-minded individuals.
-
-## 🛠 Skills and Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asearer&repo=my-main-repo&layout=compact&theme=radical)
-
-- **Languages:** Python, JavaScript, Java, Go, HTML, CSS
-- **Frameworks:** React, Django, Flask, Node.js
-- **Frontend Libraries:** Bootstrap, jQuery
-- **Tools:** Git, VS Code, Jupyter Notebook, Postman
-- **Databases:** SQLite, PostgreSQL, MongoDB
-- **Other Skills:** RESTful APIs, Unit Testing, Responsive Web Design, Data Visualization, Software Engineering Principles, Responsive Layouts
-
-## 🏆 Certifications
-I have completed certifications in the following areas:
-- **Responsive Web Design** - FreeCodeCamp
-- **Software Engineering** - University of Massachusetts Software Engineering Bootcamp
-- **Data Visualization** - FreeCodeCamp
-- **Frontend Development Libraries** - FreeCodeCamp
-
-## 🌱 Learning and Interests
-- **Currently Learning:** TypeScript, Rust, Docker, Kubernetes, Advanced Data Visualization Techniques
-- **Passionate About:** Contributing to projects in fields like:
-  - **Astronomy:** Exploring the universe through code.
-  - **Radio Technology:** Bridging communication gaps.
-  - **Medical/Mental Health:** Building tools that positively impact lives.
-  - **Anything Genuinely Interesting or Helpful:** I love working on projects that make a difference!
-
-## 📫 Let's Connect!
-Feel free to reach out or explore more of my work:
-- **Email:** [asearerdev@gmail.com](mailto:asearerdev@gmail.com)
-- **LinkedIn:** [Alonza Searer](https://linkedin.com/in/alonzasearer)
-- **Portfolio:** [ASearerDev](https://asearerdev-portfolio.vercel.app/)
+💡 My passion lies at the intersection of **science, technology, and human impact** — using software to create tools that inform, connect, and inspire.
 
 ---
 
-Thank you for stopping by! Let’s create something amazing together. 🚀
+## 🧰 Technical Toolbox
+
+**Languages:** Python, JavaScript, Java, Go, HTML, CSS
+**Frameworks & Libraries:** React, Django, Flask, Node.js, Bootstrap, jQuery
+**Databases:** PostgreSQL, MongoDB, SQLite
+**Tools:** Git, VS Code, Jupyter Notebook, Docker, Postman
+**Core Skills:** RESTful APIs, Unit Testing, Data Visualization, Responsive Design, Software Engineering Principles
+
+> 💬 *“I love transforming complex concepts into intuitive, user-focused software.”*
+
+---
+
+## 🌟 Featured Projects
+
+Explore my **pinned repositories below** for a curated selection of my most recent and impactful work.
+They highlight projects in:
+
+* Full-stack web development
+* Data visualization and analytics
+* API design and integration
+* Real-world problem solving through software
+
+> ⚙️ *These featured projects evolve over time as I continue creating, learning, and refining new ideas.*
+
+---
+
+## 🏅 Certifications
+
+* **Responsive Web Design** – FreeCodeCamp
+* **Software Engineering Bootcamp** – University of Massachusetts
+* **Data Visualization** – FreeCodeCamp
+* **Frontend Development Libraries** – FreeCodeCamp
+
+---
+
+## 🌱 Ongoing Learning
+
+* **Currently Exploring:** TypeScript, Rust, Docker, Kubernetes
+* **Passionate About:**
+
+  * Astronomy & Space Technology
+  * Medical & Mental Health Tech
+  * Radio and Communication Systems
+  * Projects that genuinely help people
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaboration, mentorship, and new opportunities.
+
+* 💼 **LinkedIn:** [Alonza Searer](https://linkedin.com/in/alonzasearer)
+* ✉️ **Email:** [asearerdev@gmail.com](mailto:asearerdev@gmail.com)
+
+---
+
+⭐ *“Good software solves problems. Great software changes lives.”*
+Thanks for visiting — I’d love to connect and collaborate!
+
+---
+
+
+Would you like me to now craft a **matching GitHub tagline** (for the small “bio” under your profile picture) that complements this README — something polished and keyword-optimized for recruiters and automated screening systems (ATS)?
