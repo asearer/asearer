@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alonza Searer
+# 👋 Hi, I’m Alonza Searer (asearer)
 
 I’m a **Software Developer** and **Computer Science student** at **Southern New Hampshire University (SNHU)**, specializing in **Software Engineering**. I build practical, data-driven applications that turn complex problems into intuitive, real-world solutions.
 
