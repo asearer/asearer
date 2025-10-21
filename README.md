@@ -67,5 +67,3 @@ Thanks for visiting — I’d love to connect and collaborate!
 
 ---
 
-
-Would you like me to now craft a **matching GitHub tagline** (for the small “bio” under your profile picture) that complements this README — something polished and keyword-optimized for recruiters and automated screening systems (ATS)?
