@@ -9,9 +9,13 @@ I’m a **Software Developer** and **Computer Science student** at **Southern Ne
 ## 🧰 Technical Toolbox
 
 **Languages:** Python, JavaScript, Java, Go, HTML, CSS
+
 **Frameworks & Libraries:** React, Django, Flask, Node.js, Bootstrap, jQuery
+
 **Databases:** PostgreSQL, MongoDB, SQLite
+
 **Tools:** Git, VS Code, Jupyter Notebook, Docker, Postman
+
 **Core Skills:** RESTful APIs, Unit Testing, Data Visualization, Responsive Design, Software Engineering Principles
 
 > 💬 *“I love transforming complex concepts into intuitive, user-focused software.”*
