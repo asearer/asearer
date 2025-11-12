@@ -59,7 +59,7 @@ Explore my **pinned repositories** below for a curated selection of projects tha
 I’m always open to **collaboration, mentorship, and new opportunities**.
 
 * [LinkedIn](https://linkedin.com/in/alonzasearer)
-* [Email](mailto:asearerdev@gmail.com)
+* [Email](mailto:alonzamsearer@gmail.com)
 * [Portfolio](https://asearerdev-portfolio.vercel.app)
 
 ---
