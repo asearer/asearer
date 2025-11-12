@@ -1,73 +1,68 @@
-# 👋 Hi, I’m Alonza Searer (asearer)
+# Hi, I’m **Alonza Searer (asearer)**
 
-I’m a **Software Developer** and **Computer Science student** at **Southern New Hampshire University (SNHU)**, specializing in **Software Engineering**. I build practical, data-driven applications that turn complex problems into intuitive, real-world solutions.
+I’m a **Software Developer** and **Computer Science student at Southern New Hampshire University (SNHU)**, specializing in **Software Engineering**.
+I build **data-driven applications** that turn complex ideas into simple, impactful solutions.
 
-💡 My passion lies at the intersection of **science, technology, and human impact** — using software to create tools that inform, connect, and inspire.
-
----
-
-## 🧰 Technical Toolbox
-
-**Languages:** Python, JavaScript, Java, Go, HTML, CSS
-
-**Frameworks & Libraries:** React, Django, Flask, Node.js, Bootstrap, jQuery
-
-**Databases:** PostgreSQL, MongoDB, SQLite
-
-**Tools:** Git, VS Code, Jupyter Notebook, Docker, Postman
-
-**Core Skills:** RESTful APIs, Unit Testing, Data Visualization, Responsive Design, Software Engineering Principles
-
-> 💬 *“I love transforming complex concepts into intuitive, user-focused software.”*
+My work sits at the intersection of **technology, science, and human impact** — using code to create tools that inform, connect, and empower.
 
 ---
 
-## 🌟 Featured Projects
+## Technical Toolbox
 
-Explore my **pinned repositories below** for a curated selection of my most recent and impactful work.
-They highlight projects in:
+**Languages:** Python · JavaScript · Java · Go · HTML · CSS
+**Frameworks & Libraries:** React · Django · Flask · Node.js · Bootstrap · jQuery
+**Databases:** PostgreSQL · MongoDB · SQLite
+**Tools & Platforms:** Git · Docker · Postman · VS Code · Jupyter Notebook
+**Core Skills:** RESTful APIs · Unit Testing · Data Visualization · Responsive Design · Agile Development · Software Engineering Principles
 
-* Full-stack web development
-* Data visualization and analytics
-* API design and integration
-* Real-world problem solving through software
-
-> ⚙️ *These featured projects evolve over time as I continue creating, learning, and refining new ideas.*
+> *“I love transforming complex concepts into intuitive, user-centered software.”*
 
 ---
 
-## 🏅 Certifications
+## Featured Work
 
-* **Responsive Web Design** – FreeCodeCamp
-* **Software Engineering Bootcamp** – University of Massachusetts
-* **Data Visualization** – FreeCodeCamp
-* **Frontend Development Libraries** – FreeCodeCamp
+Explore my **pinned repositories** below for a curated selection of projects that demonstrate:
 
----
+* **Full-Stack Web Development** — scalable APIs and interactive frontends
+* **Data Visualization & Analytics** — translating data into insights
+* **API Design & Integration** — connecting systems through clean architecture
+* **Human-Focused Solutions** — software built with real users in mind
 
-## 🌱 Ongoing Learning
-
-* **Currently Exploring:** TypeScript, Rust, Docker, Kubernetes
-* **Passionate About:**
-
-  * Astronomy & Space Technology
-  * Medical & Mental Health Tech
-  * Radio and Communication Systems
-  * Projects that genuinely help people
+> *I continuously update and refine my repositories as I learn and build new projects.*
 
 ---
 
-## 🤝 Let’s Connect
+## Certifications
 
-I’m always open to collaboration, mentorship, and new opportunities.
+* Responsive Web Design – FreeCodeCamp
+* Software Engineering Bootcamp – University of Massachusetts
+* Data Visualization – FreeCodeCamp
+* Frontend Development Libraries – FreeCodeCamp
 
-* 💼 **LinkedIn:** [Alonza Searer](https://linkedin.com/in/alonzasearer)
-* ✉️ **Email:** [asearerdev@gmail.com](mailto:asearerdev@gmail.com)
+---
+
+## Ongoing Learning
+
+**Currently Exploring:** TypeScript · Rust · Docker · Kubernetes
+
+**Interests:**
+
+* Astronomy and Space Technology
+* Medical and Mental Health Tech
+* Radio and Communication Systems
+* Software that makes a difference in people’s lives
 
 ---
 
-⭐ *“Good software solves problems. Great software changes lives.”*
-Thanks for visiting — I’d love to connect and collaborate!
+## Connect
+
+I’m always open to **collaboration, mentorship, and new opportunities**.
+
+* [LinkedIn](https://linkedin.com/in/alonzasearer)
+* [Email](mailto:asearerdev@gmail.com)
+* [Portfolio](https://asearerdev-portfolio.vercel.app)
 
 ---
+
+> *“Good software solves problems. Great software changes lives.”*
 
